@@ -12,8 +12,6 @@
 
 ### Problemas potenciales
 
-# Problemas potenciales
-
 | Problema potencial | Usuario | Contexto | Evidencia | Fuente | Hecho, interpretación o supuesto | Preguntas pendientes |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Sensación de "CV vacío" / síndrome del impostor por falta de experiencia laboral formal | Estudiantes/recién egresados | Al sentarse a armar su primer CV | Artículo describe esto como un patrón generalizado, vinculado explícitamente al síndrome del impostor | Fundación Pharos | Hecho (observación cualitativa del autor, no estudio cuantitativo) | ¿Cuántos estudiantes de la FCE sienten esto específicamente? |
