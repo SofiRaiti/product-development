@@ -121,4 +121,49 @@ Las tres fichas documentadas representan distintas facetas de un mismo fenómeno
   - *Interpretación no comprobada:* Asumimos que los estudiantes fallan al comunicar su valor, pero podría ocurrir que los filtros ATS descarten automáticamente perfiles sin empresas formales listadas, sin importar la redacción.
   - *Evidencia faltante:* Necesitamos validar con usuarios reales en entrevistas si son conscientes de que las metodologías y proyectos universitarios (ej. diseño de encuestas, investigaciones de campo) cuentan como experiencia transferible, y qué herramientas usan hoy para intentar comunicarlo en plataformas como LinkedIn.
 
+## 5. Aplicación de Matriz ICE para Priorización de Investigación
+
+Basado en la limpieza y agrupación del paso anterior, evaluamos los tres problemas principales que surgieron del research secundario para definir **cuál investigar primero con usuarios reales**.
+
+Se respetan las restricciones del territorio: exclusión de validación con personal de Recursos Humanos (lo que afecta fuertemente el criterio *Ease* de problemas sistémicos).
+
+### Tabla de Priorización ICE
+
+| Problema a investigar | Impact | Confidence | Ease | ICE |
+| :--- | :---: | :---: | :---: | :---: |
+| **1. Incapacidad para traducir logros académicos en habilidades corporativas (Ficha 2)** | 8 | 6 | 9 | **4.32** |
+| **2. Parálisis y autodescarte por síndrome del impostor / "CV vacío" (Ficha 1)** | 9 | 4 | 9 | **3.24** |
+| **3. Descarte en filtros ATS por mal uso de IA y formatos incorrectos** | 8 | 7 | 3 | **1.68** |
+
+---
+
+### Justificación de los puntajes
+
+#### 1. Incapacidad para traducir logros académicos (Ganador)
+- **Impact (8):** Genera consecuencias importantes. Si el estudiante no sabe comunicar su valor, su CV se percibe como irrelevante, perdiendo la oportunidad de entrevista a pesar de estar capacitado.
+- **Confidence (6):** Varias señales coincidentes. Miss CV y otros blogs de empleabilidad dedican artículos enteros a este "gap" comunicacional.
+- **Ease (9):** Acceso directo y altísimo. Se puede entrevistar inmediatamente a compañeros de facultad (tercer/cuarto año) y pedirles que muestren cómo describirían un trabajo práctico en un CV.
+
+#### 2. Parálisis y autodescarte por síndrome del impostor / "CV vacío"
+- **Impact (9):** Impide un objetivo crítico. El autodescarte significa que la tasa de conversión es literalmente 0%. Si el usuario ni siquiera se postula, el embudo termina antes de empezar.
+- **Confidence (4):** Una fuente principal (Fundación Pharos) lo documenta como un patrón generalizado. Es una señal fuerte, pero necesitamos evidencia empírica directa de que esto ocurre frecuentemente en nuestro target específico.
+- **Ease (9):** Mismo acceso que el problema anterior; los usuarios están en nuestro entorno inmediato (estudiantes universitarios).
+
+#### 3. Descarte en filtros ATS por mal uso de IA y formatos incorrectos
+- **Impact (8):** Consecuencia grave. Un CV rechazado por un bot nunca es evaluado por un humano.
+- **Confidence (7):** Evidencia diversa, verificable y consistente en múltiples medios (La Gaceta, Fundación Universia, Expansión).
+- **Ease (3):** Investigación muy limitada. Al estar fuera de alcance entrevistar a reclutadores (RRHH), no podemos comprobar empíricamente si los CVs de nuestros usuarios son rechazados específicamente por el ATS o por el contenido. Solo podemos investigar si los estudiantes usan IA, pero no su impacto real en el descarte.
+
+---
+
+### Conclusión y Foco de Investigación
+
+El problema con mayor puntaje ICE es la **incapacidad técnica para traducir proyectos académicos en competencias valoradas por el mercado (ICE 4.32)**.
+
+Este será el eje central de las primeras entrevistas. Validar si este problema de comunicación existe (y cómo lo resuelven hoy) nos dará la base sólida que necesitamos. El síntoma emocional de "parálisis y autodescarte" (Problema 2) se investigará en simultáneo durante las mismas entrevistas, ya que funciona como la consecuencia directa del primer problema.
+
+
+
+
+
 ## Estacionamiento de soluciones
