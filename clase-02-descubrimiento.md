@@ -37,7 +37,9 @@ Diario de Cuyo - (https://www.diariodecuyo.com.ar/noticias/una-mayoria-de-los-un
 ### Dudas y contradicciones
 
 - 
-## Ficha 1: Sensación de "CV vacío" y Síndrome del Impostor
+## 3. Construir la ficha de cada problema
+
+### Ficha 1: Sensación de "CV vacío" y Síndrome del Impostor
 
 | Campo | Respuesta |
 | :--- | :--- |
@@ -58,7 +60,7 @@ Diario de Cuyo - (https://www.diariodecuyo.com.ar/noticias/una-mayoria-de-los-un
 
 ---
 
-## Ficha 2: Dificultad para traducir logros académicos
+### Ficha 2: Dificultad para traducir logros académicos
 
 | Campo | Respuesta |
 | :--- | :--- |
@@ -79,7 +81,7 @@ Diario de Cuyo - (https://www.diariodecuyo.com.ar/noticias/una-mayoria-de-los-un
 
 ---
 
-## Ficha 3: La falta de experiencia como barrera de entrada
+### Ficha 3: La falta de experiencia como barrera de entrada
 
 | Campo | Respuesta |
 | :--- | :--- |
@@ -162,7 +164,83 @@ El problema con mayor puntaje ICE es la **incapacidad técnica para traducir pro
 
 Este será el eje central de las primeras entrevistas. Validar si este problema de comunicación existe (y cómo lo resuelven hoy) nos dará la base sólida que necesitamos. El síntoma emocional de "parálisis y autodescarte" (Problema 2) se investigará en simultáneo durante las mismas entrevistas, ya que funciona como la consecuencia directa del primer problema.
 
+## 6. Evaluaciones ICE individuales
 
+### Sofi
+
+| Problema | Impact | Confidence | Ease | ICE | Justificación |
+|---|---:|---:|---:|---:|---|
+| **A. Incapacidad para traducir logros académicos** | 8 | 6 | 9 | 4.32 | Lo veo todo el tiempo. Cuesta un montón explicar en un currículum que armar una investigación de mercado sobre TECHO o analizar cadenas de valor agroindustriales son habilidades analíticas reales para una empresa, y no solo un TP más. |
+| **B. Parálisis y autodescarte ("CV vacío")** | 9 | 4 | 8 | 2.88 | El impacto es altísimo porque frena la postulación por completo. Sin embargo, dudo si todos sienten verdaderamente "síndrome del impostor" o si simplemente no saben qué escribir. Fácil de preguntar en el campus. |
+| **C. Descarte en filtros ATS** | 7 | 7 | 2 | 0.98 | Es un problema clarísimo del mercado, pero al no poder investigar del lado de RRHH, no tenemos forma de validar qué porcentaje de CVs de nuestro segmento rebotan por la IA. |
+
+### Jose
+
+| Problema | Impact | Confidence | Ease | ICE | Justificación |
+|---|---:|---:|---:|---:|---|
+| **A. Incapacidad para traducir logros académicos** | 7 | 6 | 9 | 3.78 | Es una fricción real, pero me pregunto si las empresas no buscan herramientas más técnicas que directamente no vemos en la facultad. Es muy fácil validarlo mostrando CVs de ejemplo a otros alumnos. |
+| **B. Parálisis y autodescarte ("CV vacío")** | 9 | 5 | 8 | 3.60 | Para mí la traba psicológica pega fuertísimo. La frustración de no tener historial los frena antes de arrancar. |
+| **C. Descarte en filtros ATS** | 8 | 8 | 3 | 1.92 | El rechazo del bot es letal y está súper documentado. Le bajo el puntaje en facilidad porque comprobar la causa exacta del descarte en sistemas cerrados nos excede totalmente. |
+
+### Mili
+
+| Problema | Impact | Confidence | Ease | ICE | Justificación |
+|---|---:|---:|---:|---:|---|
+| **A. Incapacidad para traducir logros académicos** | 8 | 7 | 9 | 5.04 | Pasa muchísimo. Tenemos compañeros brillantes que terminan armando perfiles de LinkedIn súper pobres porque no saben vender lo que investigan o analizan en la cursada. |
+| **B. Parálisis y autodescarte ("CV vacío")** | 8 | 6 | 8 | 3.84 | La hoja en blanco intimida. Asumen que sin el nombre de una empresa conocida no valen nada. Podemos validar esto observando cómo encaran el armado del perfil. |
+| **C. Descarte en filtros ATS** | 9 | 7 | 4 | 2.52 | Consecuencia gravísima, pero imposible de testear con los recursos y el tiempo que tenemos ahora sin acceso a reclutadores. |
+
+### Wenwa
+
+| Problema | Impact | Confidence | Ease | ICE | Justificación |
+|---|---:|---:|---:|---:|---|
+| **A. Incapacidad para traducir logros académicos** | 7 | 5 | 8 | 2.80 | Creo que el problema de comunicación existe, pero lo veo más como una consecuencia del problema B. Si no se sienten seguros, comunican mal. |
+| **B. Parálisis y autodescarte ("CV vacío")** | 9 | 7 | 9 | 5.67 | Para mí este es EL problema. El síndrome del impostor en nuestra edad es altísimo. Lo veo en charlas constantes con amigos que no se animan a mandar a pasantías porque "piden mucho". |
+| **C. Descarte en filtros ATS** | 8 | 8 | 2 | 1.28 | Los datos están, pero no podemos hacer encuestas a RRHH, así que investigarlo directamente está fuera de nuestro alcance. |
+
+### Ana
+
+| Problema | Impact | Confidence | Ease | ICE | Justificación |
+|---|---:|---:|---:|---:|---|
+| **A. Incapacidad para traducir logros académicos** | 9 | 6 | 9 | 4.86 | Si no sabés mostrar tu valor, tu CV es invisible. Es algo 100% accionable y que podemos arreglar desde el lado del usuario estudiante, y testearlo en entrevistas nos va a llevar nada de tiempo. |
+| **B. Parálisis y autodescarte ("CV vacío")** | 7 | 5 | 8 | 2.80 | Es limitante, sí, pero creo que muchos mandan CV igual (aunque estén vacíos) por la necesidad de conseguir laburo. No sé si frena tanto la acción de aplicar. |
+| **C. Descarte en filtros ATS** | 8 | 9 | 3 | 2.16 | Le pongo un 9 en confianza porque hay mil notas sobre esto. Pero coincido con el resto: no tenemos cómo comprobarlo nosotros. |
+
+### Franco
+
+| Problema | Impact | Confidence | Ease | ICE | Justificación |
+|---|---:|---:|---:|---:|---|
+| **A. Incapacidad para traducir logros académicos** | 8 | 6 | 8 | 3.84 | Muchos ni saben que las metodologías que aprenden sirven para el mundo corporativo. El tema es que no hay un "puente" claro. |
+| **B. Parálisis y autodescarte ("CV vacío")** | 8 | 5 | 8 | 3.20 | Es un círculo vicioso: sienten que no tienen nada -> arman mal el CV -> no los llaman -> se sienten peor. Es fácil de indagar en las entrevistas. |
+| **C. Descarte en filtros ATS** | 9 | 8 | 4 | 2.88 | Un CV rebotado por ATS es el fin del camino. Quizás podríamos pedirle a los entrevistados que pasen su CV por un simulador gratuito de ATS para medir esto sin necesitar a RRHH. |
+
+---
+
+## 7. Evaluación ICE con IA
+
+| Problema | Impact (1-10) | Confidence (1-10) | Ease (1-10) | ICE Score |
+| :--- | :---: | :---: | :---: | :---: |
+| **A. Dificultad para traducir logros académicos (Ficha 2)** | 7 | 5 | 9 | **3.15** |
+| **B. Sensación de "CV vacío" y autodescarte (Ficha 1)** | 8 | 4 | 8 | **2.56** |
+| **C.  Descarte en filtros ATS (Ficha 3)** | 9 | 8 | 4 | **2.88** |
+
+**Justificaciones y advertencias (IA):**
+*   **Problema A:** La IA asume que el rechazo del mercado se debe a mala comunicación y no a un filtro automático por falta de empresa formal. Advierte que falta evidencia empírica sobre cómo redactan sus CVs actualmente los estudiantes.
+*   **Problema B:** La IA infiere que "parálisis al redactar" se traduce automáticamente en "no postularse". Advierte que falta cuantificar qué porcentaje de estudiantes con síndrome del impostor realmente deja de enviar su CV por este motivo.
+*   **Problema C:** La IA asume que la percepción de la barrera por parte de los encuestados equivale al rechazo real de las empresas. Advierte que validar esto requiere hablar con Recursos Humanos, lo cual está explícitamente fuera de alcance.
+
+---
+
+## 8. Comparación de las evaluaciones
+
+| Pregunta | Respuesta del equipo |
+|---|---|
+| **¿Dónde coincidimos?** | Todo el equipo (Jose, Mili, Wenwa, Ana, Franco, Sofi) y la IA coincidimos unánimemente en que la evaluación de *Ease* (Facilidad) polariza los resultados: los problemas A y B son altamente investigables en nuestro entorno universitario (8-9), mientras que las barreras sistémicas de RRHH (C) son casi imposibles de validar para nosotros (2-4). |
+| **¿Dónde aparecen diferencias?** | Hay un debate claro sobre el dolor raíz. Sofi, Ana y Mili priorizan fuertemente el Problema A (incapacidad técnica para traducir), viéndolo como una fricción técnica accionable. En cambio, Wenwa ve al Problema B (parálisis emocional / síndrome del impostor) como el bloqueo principal que genera todo lo demás. Jose y Franco tienen posturas más equilibradas entre ambos. |
+| **¿Qué puntaje está débilmente justificado?** | El *Impact* del Problema B. Varios le pusimos 8 o 9 asumiendo que frena la postulación, pero Ana y la IA señalan correctamente que muchos estudiantes mandan sus perfiles genéricos de todas formas por la necesidad de trabajar. |
+| **¿Qué criterio depende de supuestos?** | La *Confidence* en los Problemas A y B. Estamos asumiendo que los blogs de empleabilidad consultados describen con exactitud la realidad específica de nuestra facultad y nuestro círculo. |
+| **¿La IA utilizó evidencia o completó vacíos?** | Se basó en las fuentes de las fichas, pero hizo explícito que completó un vacío al inferir que el "mal CV" es la causa real del rechazo (Problema A). Además, la IA nos marcó la falta de datos empíricos que respalden nuestras opiniones. |
+| **¿Ease está influyendo demasiado?** | Definitivamente. El Problema C tiene los puntajes más altos de Impacto y Confianza a nivel general, pero pierde en la fórmula de todos los integrantes por su baja Facilidad, confirmando la decisión estratégica de enfocarnos solo en lo que el estudiante puede controlar. |
 
 
 
