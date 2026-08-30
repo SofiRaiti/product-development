@@ -278,6 +278,77 @@ Podríamos estar equivocados si: descubrimos que los estudiantes ya saben comuni
 
 La próxima evidencia que necesitamos obtener es: sentarnos con estudiantes reales, observar cómo redactan su CV en vivo, y entender cómo describen los trabajos y análisis más complejos que hicieron en la facultad.
 
+## 12, 13, 14 y 15. Personas sintéticas y entrevistas
 
+### Persona sintética 1: El Estudiante Paralizado ("CV Vacío")
+
+| Campo | Contenido |
+|---|---|
+| Nombre descriptivo | Mateo (El Analista Paralizado) |
+| Contexto | Estudiante de 4to año. Busca su primera pasantía en marketing estratégico. Cero experiencia formal en relación de dependencia. *(Hipótesis basada en target)* |
+| Objetivo o progreso buscado | Llenar la sección de "Experiencia" en su perfil para aplicar a búsquedas de empresas grandes sin sentirse un impostor. |
+| Comportamientos | Abre un documento en blanco o una plantilla, llega a la sección de "Experiencia Profesional", se frustra y cierra el archivo o lo pospone. *(Evidencia: Fundación Pharos)* |
+| Frustraciones | Siente que el análisis de cadenas de valor agroindustriales (ej. logística de exportación de limón o maní) que hizo en la facultad es "solo un TP para aprobar" y no tiene peso corporativo. |
+| Restricciones | Desconoce por completo qué palabras clave o vocabulario de negocios usar para describir su propio trabajo académico. |
+| Alternativas actuales | Pide prestados CVs a amigos más grandes para copiar el formato, o deja enormes espacios en blanco. |
+| Evidencia que la respalda | Fundación Pharos (síndrome del impostor / bloqueo al redactar); Miss CV (fricción de traducción). |
+| Supuestos incorporados | Asumimos que Mateo subestima el rigor técnico de lo que hace en la universidad. |
+| Preguntas para personas reales | Cuando dejás el CV en blanco, ¿es porque creés que la empresa no valora la universidad o porque literalmente no sabés cómo redactarlo? |
+
+### Persona sintética 2: La Redactora Descriptiva (Sub-optimizada)
+
+| Campo | Contenido |
+|---|---|
+| Nombre descriptivo | Camila (La Redactora de Programas de Estudio) |
+| Contexto | Estudiante avanzada. Aplica a trabajos activamente pero no logra pasar a la etapa de entrevistas. *(Hipótesis)* |
+| Objetivo o progreso buscado | Pasar el primer filtro de los reclutadores demostrando que sabe trabajar, aunque no tenga recibo de sueldo previo. |
+| Comportamientos | Llena su CV enumerando cosas descriptivas y pasivas: "Aprobé Investigación de Mercado", "Hice encuestas para familias de tránsito", en lugar de enfocarlo en metodologías y resultados. |
+| Frustraciones | Manda muchos currículums y siente que rebota porque "siempre piden 2 años de experiencia". *(Evidencia: Infobae)* |
+| Restricciones | No tiene una metodología para extraer las competencias transversales (ej. diseño de instrumentos de medición, definición de perfiles objetivo) de un trabajo práctico. |
+| Alternativas actuales | Usa IA genérica para que le redacte el perfil, lo que resulta en un texto robótico que no refleja sus proyectos reales. *(Evidencia: Fundación Universia)* |
+| Evidencia que la respalda | Miss CV (dificultad para nombrar habilidades); artículos sobre filtros de RRHH. |
+| Supuestos incorporados | Asumimos que ella piensa que el reclutador va a deducir sus habilidades analíticas solo por leer el nombre de la materia. |
+| Preguntas para personas reales | ¿Alguna vez alguien te enseñó a transformar la descripción de un TP en un "logro profesional"? |
+
+### Aprendizajes del role-play
+
+- **Nuevas hipótesis:** Nos dimos cuenta de que quizás el problema empieza mucho antes de abrir Word; tal vez el bloqueo ocurre al intentar armar el perfil de LinkedIn, viendo los perfiles "perfectos" de otros compañeros.
+- **Afirmaciones sin respaldo:** Durante el role-play dijimos que "las universidades no enseñan esto", pero es una suposición nuestra. Necesitamos preguntar si buscaron ayuda en las bolsas de trabajo de la facultad.
+- **Respuestas que deben validarse:** La persona sintética asume que el reclutador no lee sus proyectos. Necesitamos validar con el usuario real si alguna vez *intentó* enviarlos y tuvo feedback, o si se autodescarta antes.
+
+### Guion de entrevista real
+
+1. Llevame al momento exacto de la última vez que abriste tu CV o perfil de LinkedIn para actualizarlo. ¿Qué estabas intentando lograr ese día?
+2. Guiame paso a paso: cuando llegaste a la parte de tu experiencia/educación, ¿qué escribiste exactamente? *(Nota para el entrevistador: Si es posible, pedir que muestre la pantalla o el CV)*.
+3. Pensá en algún proyecto de investigación complejo que hayas hecho en la facultad (por ejemplo, investigar a una ONG o analizar un mercado). ¿Cómo decidiste incluirlo o por qué decidiste dejarlo afuera de tu perfil?
+4. Si lo incluiste, ¿cómo elegiste las palabras para describirlo? 
+5. ¿Qué fue lo más frustrante de ese proceso de redacción?
+6. ¿A qué herramientas, páginas o personas recurriste para intentar destrabarte con ese armado?
+7. ¿Qué pasó las últimas veces que te postulaste a una búsqueda usando ese perfil?
+8. Si tuvieras que explicarle a un gerente de marketing qué valor estratégico tiene el trabajo de campo que hiciste en la universidad, ¿cómo se lo dirías en voz alta ahora mismo?
+
+### Plan de entrevistas
+
+| Decisión | Definición del equipo |
+|---|---|
+| Perfil de entrevistados | Estudiantes universitarios de 3er/4to año de Cs. Económicas/Marketing, sin experiencia corporativa formal, que estén buscando pasantías o primer empleo. |
+| Cantidad mínima | 3 personas |
+| Forma de contacto | Presencial en el campus / Whatsapp a compañeros de otras comisiones. |
+| Responsable de entrevistar | Sofi / Ana |
+| Responsable de registrar | Franco / Jose / Mili / Wenwa |
+| Evidencia que se recopilará | Notas sobre sus fricciones al redactar, palabras que usan para describirse, y capturas/visualización de sus CVs actuales (anonimizados si prefieren). |
+| Fecha límite | Antes de la Clase 3 |
+
+---
+
+## Cierre del equipo
+
+El problema que decidimos investigar es: **La incapacidad técnica de los estudiantes universitarios para traducir y articular el valor estratégico de sus proyectos académicos (investigaciones, análisis de mercado) al lenguaje corporativo al momento de armar su primer CV.**
+
+La evidencia más fuerte que encontramos es: **La existencia de múltiples guías especializadas y artículos (ej. Miss CV) dedicados exclusivamente a enseñar cómo nombrar habilidades transferibles ante la ausencia de historial laboral, evidenciando una fricción comunicacional generalizada.**
+
+El supuesto más riesgoso es: **Creer que si el estudiante logra redactar perfectamente su valor académico, las empresas dejarán de rechazarlo. Podría ocurrir que el mercado simplemente descarte automáticamente cualquier perfil sin experiencia en empresas reales.**
+
+La pregunta más importante para los usuarios reales es: **Cuando tuviste que poner un proyecto complejo de la facultad en tu CV, ¿cómo decidiste qué palabras usar y por qué creés que ese formato te funciona o falla?**
 
 ## Estacionamiento de soluciones
