@@ -242,6 +242,42 @@ Este será el eje central de las primeras entrevistas. Validar si este problema 
 | **¿La IA utilizó evidencia o completó vacíos?** | Se basó en las fuentes de las fichas, pero hizo explícito que completó un vacío al inferir que el "mal CV" es la causa real del rechazo (Problema A). Además, la IA nos marcó la falta de datos empíricos que respalden nuestras opiniones. |
 | **¿Ease está influyendo demasiado?** | Definitivamente. El Problema C tiene los puntajes más altos de Impacto y Confianza a nivel general, pero pierde en la fórmula de todos los integrantes por su baja Facilidad, confirmando la decisión estratégica de enfocarnos solo en lo que el estudiante puede controlar. |
 
+## 9. Crítica del problema finalista
+
+- Debilidades encontradas: Impacto inferido (asumimos que la mala comunicación causa el rechazo); sesgo de accesibilidad (lo elegimos en gran parte porque es fácil validarlo con nuestros compañeros); solución escondida (definirlo como "incapacidad de traducir" empuja a pensar en un "traductor" como solución).
+- Explicaciones alternativas: Los estudiantes quizás saben qué poner en el CV, pero asumen que a las empresas no les importan los trabajos prácticos. O directamente los reclutadores descartan cualquier perfil que diga "0 años de experiencia" sin importar qué tan bien esté redactado el proyecto universitario.
+- Evidencia que podría refutarlo: Que durante las entrevistas los usuarios nos demuestren que sí saben explicar sus competencias con vocabulario corporativo, pero que aun así sientan que eso no les sirve para conseguir entrevistas.
+- Respuesta del equipo: Seguimos eligiendo este problema con cautela. Es la única variable que el usuario (el estudiante) puede controlar al 100%. En las entrevistas no solo deberemos comprobar si les cuesta redactar el CV, sino indagar si creen que poner proyectos académicos (como investigaciones de mercado o análisis de cadenas de valor) tiene un peso real.
+
+## 10 y 11. Problema priorizado
+
+### Puntaje ICE
+
+- Impact: 8
+- Confidence: 6
+- Ease: 9
+- ICE: 4.32
+
+### Redacción final
+
+Los estudiantes universitarios avanzados sin experiencia corporativa formal tienen dificultades para demostrar sus competencias analíticas y estratégicas cuando se sientan a redactar su primer CV o perfil de LinkedIn, debido a la incapacidad técnica para traducir proyectos académicos complejos (como investigaciones de mercado, diseño de encuestas o análisis de cadenas de valor agroindustriales) al lenguaje corporativo. Esto genera perfiles que se limitan a listar materias aprobadas, invisibilizando el valor real del candidato y haciéndole perder oportunidades de entrevista. Encontramos señales en guías de empleabilidad especializadas (como Miss CV) y en la observación directa de nuestros propios compañeros. Sin embargo, todavía necesitamos comprobar si los estudiantes son conscientes de que sus proyectos universitarios cuentan como experiencia transferible válida y cómo intentan comunicarlos actualmente frente a la pantalla en blanco.
+
+### Justificación
+
+Priorizamos este problema porque: es la única barrera del proceso de selección que depende 100% del usuario (el estudiante) y que podemos accionar sin depender de terceros inalcanzables (sistemas ATS o personal de Recursos Humanos).
+
+El criterio ICE más sólido es: Ease (Facilidad), ya que tenemos acceso directo e inmediato a nuestros propios compañeros en el campus para observarlos en acción.
+
+El criterio ICE más incierto es: Confidence (Confianza), dado que nos basamos fuertemente en blogs de empleabilidad y percepciones propias, pero nos faltan datos empíricos de nuestra población específica.
+
+La evidencia más fuerte que tenemos es: la existencia de múltiples artículos y guías enteras dedicadas a enseñar cómo articular logros académicos, lo que confirma que la fricción técnica existe en el mercado.
+
+La principal debilidad de nuestra elección es: el sesgo de accesibilidad (lo elegimos, en parte, porque nos resulta muy fácil y barato investigarlo).
+
+Podríamos estar equivocados si: descubrimos que los estudiantes ya saben comunicar su valor académico perfectamente, pero el mercado laboral simplemente no valora los proyectos universitarios y los descarta igual.
+
+La próxima evidencia que necesitamos obtener es: sentarnos con estudiantes reales, observar cómo redactan su CV en vivo, y entender cómo describen los trabajos y análisis más complejos que hicieron en la facultad.
+
 
 
 ## Estacionamiento de soluciones
