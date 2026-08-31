@@ -60,3 +60,23 @@ Creemos que podemos configurar un prompt que transforme descripciones académica
 - **Criterio de fracaso:** Menos de 4 participantes lo utilizan, aduciendo que la redacción no les sirve, suena irreal o no los representa.
 - **Aprendizaje esperado:** Descubrir si resolver la barrera técnica de redacción es suficiente para que el usuario avance en el embudo de contratación.
 - **Limitaciones:** El experimento no prueba de forma automatizada la tecnología, ya que el equipo curará las respuestas manualmente para garantizar calidad en esta primera etapa.
+
+# Cierre del equipo
+
+**La solución digital que decidimos explorar es:** 
+Un asistente generativo web que traduce las descripciones informales de trabajos prácticos universitarios (como investigaciones o logística agroindustrial) a competencias estratégicas redactadas con lenguaje corporativo.
+
+**La evidencia más fuerte que la respalda es:** 
+La existencia de múltiples guías especializadas (como Miss CV) enfocadas en enseñar cómo articular habilidades transferibles, y la parálisis observada en estudiantes al intentar escribir su perfil.
+
+**El supuesto más riesgoso es:** 
+Creer que el mercado laboral descarta a los estudiantes junior por su mala comunicación y no por un filtro sistémico automático que rechaza perfiles con "0 años de experiencia" real.
+
+**Lo más importante que necesitamos aprender es:** 
+Si entregar la experiencia académica ya traducida al lenguaje de negocios elimina el autodescarte e impulsa al estudiante a enviar postulaciones reales.
+
+**El experimento que realizaremos es:** 
+Un servicio tipo "Wizard of Oz" mediante un formulario online donde los estudiantes envían las tareas de sus trabajos universitarios y el equipo devuelve los logros redactados manualmente con IA, midiendo cuántos realmente los publican o envían.
+
+**Abandonaremos o cambiaremos la propuesta si:** 
+Menos de 4 de cada 10 participantes se animan a utilizar el texto provisto en su perfil público o en postulaciones reales, indicando que el problema de fondo no era técnico sino de desconfianza en el mercado.
