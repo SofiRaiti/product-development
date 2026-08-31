@@ -190,7 +190,7 @@ Este será el eje central de las primeras entrevistas. Validar si este problema 
 | **B. Parálisis y autodescarte ("CV vacío")** | 8 | 6 | 8 | 3.84 | La hoja en blanco intimida. Asumen que sin el nombre de una empresa conocida no valen nada. Podemos validar esto observando cómo encaran el armado del perfil. |
 | **C. Descarte en filtros ATS** | 9 | 7 | 4 | 2.52 | Consecuencia gravísima, pero imposible de testear con los recursos y el tiempo que tenemos ahora sin acceso a reclutadores. |
 
-### Wenwa
+### Wenhua
 
 | Problema | Impact | Confidence | Ease | ICE | Justificación |
 |---|---:|---:|---:|---:|---|
