@@ -235,7 +235,7 @@ Este será el eje central de las primeras entrevistas. Validar si este problema 
 
 | Pregunta | Respuesta del equipo |
 |---|---|
-| **¿Dónde coincidimos?** | Todo el equipo (Jose, Mili, Wenwa, Ana, Franco, Sofi) y la IA coincidimos unánimemente en que la evaluación de *Ease* (Facilidad) polariza los resultados: los problemas A y B son altamente investigables en nuestro entorno universitario (8-9), mientras que las barreras sistémicas de RRHH (C) son casi imposibles de validar para nosotros (2-4). |
+| **¿Dónde coincidimos?** | Todo el equipo (Jose, Mili, Wenhua, Ana, Franco, Sofi) y la IA coincidimos unánimemente en que la evaluación de *Ease* (Facilidad) polariza los resultados: los problemas A y B son altamente investigables en nuestro entorno universitario (8-9), mientras que las barreras sistémicas de RRHH (C) son casi imposibles de validar para nosotros (2-4). |
 | **¿Dónde aparecen diferencias?** | Hay un debate claro sobre el dolor raíz. Sofi, Ana y Mili priorizan fuertemente el Problema A (incapacidad técnica para traducir), viéndolo como una fricción técnica accionable. En cambio, Wenwa ve al Problema B (parálisis emocional / síndrome del impostor) como el bloqueo principal que genera todo lo demás. Jose y Franco tienen posturas más equilibradas entre ambos. |
 | **¿Qué puntaje está débilmente justificado?** | El *Impact* del Problema B. Varios le pusimos 8 o 9 asumiendo que frena la postulación, pero Ana y la IA señalan correctamente que muchos estudiantes mandan sus perfiles genéricos de todas formas por la necesidad de trabajar. |
 | **¿Qué criterio depende de supuestos?** | La *Confidence* en los Problemas A y B. Estamos asumiendo que los blogs de empleabilidad consultados describen con exactitud la realidad específica de nuestra facultad y nuestro círculo. |
@@ -335,7 +335,7 @@ La próxima evidencia que necesitamos obtener es: sentarnos con estudiantes real
 | Cantidad mínima | 3 personas |
 | Forma de contacto | Presencial en el campus / Whatsapp a compañeros de otras comisiones. |
 | Responsable de entrevistar | Sofi / Ana |
-| Responsable de registrar | Franco / Jose / Mili / Wenwa |
+| Responsable de registrar | Franco / Jose / Mili / Wenhua |
 | Evidencia que se recopilará | Notas sobre sus fricciones al redactar, palabras que usan para describirse, y capturas/visualización de sus CVs actuales (anonimizados si prefieren). |
 | Fecha límite | Antes de la Clase 3 |
 
