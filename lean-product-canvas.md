@@ -7,7 +7,7 @@ Estudiantes universitarios avanzados sin experiencia corporativa tienen dificult
 
 ## 2. Resultados de negocio
 - Aumentar la tasa de perfiles completados (estudiantes que logran redactar y exportar la descripción de al menos un proyecto académico complejo, como análisis de cadenas de valor o logística) de [pendiente de medir] a [objetivo] durante su primera sesión de uso de la herramienta.
-- Aumentar la cantidad de postulaciones enviadas por usuario (pasar de la parálisis a la acción) de [pendiente de medir] a [objetivo] en los primeros 15 días posteriores a la optimización de su perfil.
+- Aumentar la cantidad de postulaciones enviadas por usuario (pasar de la parálisis a la acción) de [pendiente de medir] a [objetivo] en los primeros 8/9 días posteriores a la optimización de su perfil.
 
 ## 3. Usuarios y clientes
 - **Usuario principal:** Estudiantes universitarios de 3er y 4to año sin experiencia corporativa formal, que se encuentran activamente buscando pasantías o primer empleo.
