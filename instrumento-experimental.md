@@ -16,3 +16,11 @@
 > "Actuá como un reclutador corporativo experto en talento junior. Un estudiante universitario de 3er/4to año busca su primer empleo y describió este proyecto académico: '[Insertar respuesta de la pregunta 3]'. Su objetivo es aplicar a roles de: '[Insertar respuesta de la pregunta 2]'. 
 > Tu tarea es traducir esa experiencia a 3 'bullets' de logros profesionales en lenguaje corporativo, enfocados en competencias analíticas y estratégicas.
 > REGLA ESTRICTA: El tono debe ser de nivel Junior/Trainee. No exageres responsabilidades (no uses palabras como 'Director', 'Líder', o 'Gerente'). Enfocate en el diseño de instrumentos, análisis de datos, investigación de mercado y pensamiento crítico."
+
+## Iteración 2: Prompt Automatizado (Prueba de Banco)
+**Herramienta:** ChatGPT / Claude
+**Prompt de evaluación técnica:**
+> Actuá como un reclutador corporativo experto en talento junior. Un estudiante busca su primer empleo. Su proyecto académico es: '[Insertar texto del estudiante]'. Su objetivo es aplicar a roles de: '[Insertar rol deseado]'.
+> Traducí esa experiencia a 3 'bullets' de logros profesionales.
+> REGLAS ESTRICTAS: El tono debe ser exclusivamente Junior/Analista. Está PROHIBIDO usar palabras como 'Director', 'Líder', 'Impacto global' o 'Gerente'. Utilizá únicamente verbos de soporte analítico o asistencia (ej. 'Asistencia en el diseño de...', 'Recopilación de datos sobre...', 'Análisis preliminar de...').
+> REGLA DE FORMATO: Devolvé ÚNICAMENTE los 3 bullets listos para copiar y pegar. No incluyas saludos iniciales, introducciones, ni preguntas finales de seguimiento.
