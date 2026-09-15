@@ -47,3 +47,17 @@
 - **Evidencia incorporada:** Adopción real de 5 usuarios. Feedback cualitativo sobre calibración del tono.
 - **Inversión que se justifica ahora:** Construcción de un "Concierge automatizado" (Formulario conectado vía Zapier a OpenAI) para evaluar si el prompt ajustado funciona sin curaduría humana en tiempo real.
 - **Qué todavía no se justifica construir:** Interfaz web completa con perfiles de usuario, bases de datos o modelo de pago.
+
+## Iteración 2
+
+- Experimento anterior: Wizard of Oz manual (Clase 5)[cite: 1, 3].
+- Resultado: respaldada, no respaldada o inconclusa: Respaldada[cite: 1].
+- Evidencia producida: 9 de los 10 textos generados en la prueba de banco mantuvieron el tono Junior/Analista sin requerir edición humana.
+- Por qué no sirve seguir insistiendo de la misma manera: Ya comprobamos que el prompt funciona técnicamente; repetir esta prueba técnica no generará información nueva[cite: 1].
+- Supuesto que quedó cuestionado: Factibilidad técnica (calibración automática del prompt).
+- Qué conservamos: El problema validado y la solución base (traductor de CV).
+- Qué modificamos: Pasamos de la curaduría manual a la generación 100% automatizada con reglas estrictas de tono.
+- Tipo de cambio: corrección, iteración o pivot: Iteración[cite: 1].
+- Próximo experimento: Concierge Automatizado (Riesgo de Mercado)[cite: 1].
+- Qué evidencia diferente esperamos obtener: Validar si los reclutadores seleccionan candidatos que usan estos perfiles y si los estudiantes adoptan textos entregados automáticamente[cite: 1].
+- Nuevo contrato experimental: Automatizar el flujo completo (Formulario > Zapier > IA > Mail). Criterio de éxito: que al menos el 50% de los usuarios que reciban el correo automático copien los logros en su perfil público o CV real durante la primera semana.
